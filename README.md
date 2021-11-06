@@ -20,9 +20,9 @@ slides &amp; resumes on my past talks
 
 ・熊谷 駿, An algorithm for classifying origamis into components of Teichm\”uller curves. 2020年度トポロジーとコンピュータ, zoom, 2020年9月18日, 口頭発表(30分). (https://sites.google.com/view/tac2020/home)
 
-・熊谷　駿, 2つの有限Jenkins-Strebel方向を有する平坦構造におけるVeech群の特徴づけ. 第52回 早稲田双曲幾何幾何学的群論セミナー, 東京, 早稲田大学, 2019年12月, 口頭発表(90分).
+・熊谷　駿, 2つの有限Jenkins-Strebel方向を有する平坦構造におけるVeech群の特徴づけ. 第52回 早稲田双曲幾何幾何学的群論セミナー, 東京, 早稲田大学, 2019年12月6日, 口頭発表(90分). (http://www.f.waseda.jp/ykomori/yurui-seminar2013.html)
 
-・Shun Kumagai, A characterization of the Veech group of a flat structure with two finite Jenkins-Strebel directions. Weichnachtsworkshop on Geometry and Number Theory, ドイツ, カールスルーエ工科大学, 2019年12月, 口頭発表(60分)
+・Shun Kumagai, A characterization of the Veech group of a flat structure with two finite Jenkins-Strebel directions. Weichnachtsworkshop on Geometry and Number Theory, ドイツ, カールスルーエ工科大学, 2019年12月8日, 口頭発表(60分). (https://www.math.kit.edu/iag3/~herrlich/seite/wws19/de)
 
 ・熊谷　駿, Veech groups and extended origamis. 第54回函数論サマーセミナー, 静岡, 2019年8月28日, 口頭発表(30分). (https://sites.google.com/view/casummerseminar2019)
 
