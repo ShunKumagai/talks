@@ -1,7 +1,11 @@
 # talks
 slides &amp; resumes on my past talks
 
-# list
+# Schedules of talks
+
+
+
+# Talks in the past
 
 ・熊谷 駿, Veech groups and Galois conjugacy of general origamis, 第64回函数論シンポジウム, zoom, 2021年10月31日
 
