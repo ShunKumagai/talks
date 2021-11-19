@@ -3,13 +3,15 @@ slides &amp; resumes on my past talks
 
 # Schedules of talks
 
-TBA
+・熊谷 駿, TBA. 大阪大学トポロジーセミナー, 大阪, 2022年1月12日, 口頭発表(90分).
+
+・熊谷 駿, 平行四辺形分解をもつ平坦曲面の族について. 日本数学会2022年度年会, 埼玉, 2022年3月, 口頭発表(15分).
 
 # Talks in the past
 
 ・熊谷 駿, Veech groups and Galois conjugacy of general origamis. 第64回函数論シンポジウム, zoom, 2021年10月31日, 口頭発表(50分).
 
-・熊谷 駿, Veech groups of general origamis. 日本数学会2021 年度秋季総合分科会, zoom, 2021年9月14日, 口頭発表(15分).
+・熊谷 駿, Veech groups of general origamis. 日本数学会2021年度秋季総合分科会, zoom, 2021年9月14日, 口頭発表(15分).
 
 ・熊谷 駿, 折り紙のガロア共役について. 第55回函数論サマーセミナー, zoom, 2021年9月12日, 口頭発表(30分). (https://sites.google.com/tokyo-ct.ac.jp/casummerseminar2021/)
 
