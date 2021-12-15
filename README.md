@@ -3,6 +3,8 @@ slides &amp; resumes on my past talks
 
 # Schedules of talks
 
+・熊谷 駿, On general origamis and Veech groups of flat surfaces. 東北大情報数理談話会, 仙台, 2021年12月16日, 口頭発表(60分).
+
 ・熊谷 駿, TBA. 大阪大学トポロジーセミナー, 大阪, 2022年1月12日, 口頭発表(90分).
 
 ・熊谷 駿, 平行四辺形分解をもつ平坦曲面の族について. 日本数学会2022年度年会, 埼玉, 2022年3月, 口頭発表(15分).
