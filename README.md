@@ -3,7 +3,7 @@ slides &amp; resumes on my past talks
 
 # Schedules of talks
 
-・熊谷 駿, On general origamis and Veech groups of flat surfaces. 情報数理談話会, 仙台, 2021年12月16日, 口頭発表(60分).
+・熊谷 駿, On general origamis and Veech groups of flat surfaces. 東北大情報数理談話会, 仙台, 2021年12月16日, 口頭発表(60分).
 
 ・熊谷 駿, TBA. 大阪大学トポロジーセミナー, 大阪, 2022年1月12日, 口頭発表(90分).
 
