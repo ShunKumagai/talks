@@ -11,7 +11,7 @@ slides &amp; resumes on my past talks
 
 ・熊谷 駿, On general origamis and Veech groups of flat surfaces. 東北大情報数理談話会, 仙台, 2021年12月16日, 口頭発表(60分). (https://www.math.is.tohoku.ac.jp/research/past_colloquium.html)
 
-・熊谷 駿, Veech groups and Galois conjugacy of general origamis. 第64回函数論シンポジウム, zoom, 2021年10月31日, 口頭発表(50分). (https://sites.google.com/view/64sympft/)
+・熊谷 駿, Veech groups and Galois conjugacy of general origamis. 第64回函数論シンポジウム, zoom, 2021年10月31日, 口頭発表(50分). (sites.google.com/view/64sympft/)
 
 ・熊谷 駿, Veech groups of general origamis. 日本数学会2021年度秋季総合分科会, zoom, 2021年9月14日, 口頭発表(15分).
 
