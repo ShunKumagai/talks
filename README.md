@@ -9,9 +9,7 @@ slides &amp; resumes on my past talks
 
 ・熊谷 駿, 平行四辺形分解をもつ平坦曲面の族について. 日本数学会2022年度年会(中止), 埼玉, 2022年3月, 口頭発表(15分).
 
-・熊谷 駿, On general origamis and Veech groups of flat surfaces. Workshop: Quasi-conformal mappings, geodesic laminations
-
-and flat structures on Riemann surfaces, 愛媛, 2022年2月19日, 口頭発表(90分).
+・熊谷 駿, On general origamis and Veech groups of flat surfaces. Workshop: Quasi-conformal mappings, geodesic laminations and flat structures on Riemann surfaces, 愛媛, 2022年2月19日, 口頭発表(90分).
 
 ・熊谷 駿, General origamis and Veech groups of flat surfaces. 大阪大学トポロジーセミナー, 大阪, 2022年1月12日, 口頭発表(90分).
 
